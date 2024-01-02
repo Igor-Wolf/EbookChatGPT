@@ -1,10 +1,10 @@
 # Projeto criação de Ebook através de IAs
 
-Esse projeto teve como objetivo a criação de um artigo técnico com leyout rico, e com foco em demonstrar o poder das ferramentas com I.A.s
+Esse projeto teve como objetivo a criação de um ebook com leyout rico, e com foco em demonstrar o poder das ferramentas com I.A.s
 Ele pode ser conferido logo abaixo: 
 
 
-<a href="https://www.dio.me/articles/a-proxima-era-do-rpg-como-o-chatgpt-redefine-a-experiencia-no-jogo" title="View PDF now"> 📕Clique aqui para ler o artigo</a>
+<a href="https://www.dio.me/articles/a-proxima-era-do-rpg-como-o-chatgpt-redefine-a-experiencia-no-jogo" title="View PDF now"> 📕Clique aqui para ler o Ebook</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -21,31 +21,12 @@ Ele pode ser conferido logo abaixo:
 ChatGPT：
 
 
-|  Ação   | Prompt
-|  :----: | ------------------------------------------------------------------------------------------------------------
-|  título | Crie 10 headlines para nomes de artigos sobre o assunto Jogar RPG de mesa "teatro da mente" com o ChatGPT como mestre
-| conteúdo| Comporte-se como um escritor de artigos de jogos e escreva um artigo atendendo as regras abaixo: 
-
-{Regras}
-
-> No máximo 5 linhas por blocos de explicação;
-> me explique de maneira um pouco informal, como se eu fosse uma pessoa de 20 anos;
-> os blocos que serão criados estão abaixo:
-
-
-- O que é o RPG, explique a sigla, como jogar, e mais especificamente o RPG na modalidade teatro da mente
-
-- exemplos de interação chatGPT e player durante uma aventura atraves de comandos no prompt
-
-- vantagens de utilizar o chatGPT como mestre no rpg teatro da mente
-
-- desvantagens de se utilizar o ChatGPT como mestre no RPG teatro da mente
-
-- Cite exemplos de prompts para inicializar uma campanha de rpg dark fantasy com o ChatGPT como mestre e o "eu" como Player no modelo: "ChatGPT crie uma campanha de rpg Dark Fantasy com você como mestre e eu como jogador. Meu personagem se chama [Inserir Nome], e a classe dele é [Inserir Classe]. Me auxilie na distribuição de atributos simples para eventuais testes de habilidade. Meu passado é [inserir historia do passado]. E meu principal objetivo é [Inserir objetivo]
-
-- faça um call to action para minhas redes sociais
-
-- coloque 3 hastags que façam sentido
+|  Ação    | Prompt
+|  :----:  | ------------------------------------------------------------------------------------------------------------
+|  sumário | chat eu gostaria de criar um epub sobre como jogar rpg, você poderia me fornecer um sumário sobre tópicos que seriam importantes para serem abordados?
+| conteúdo | Agora chat gpt discorra a respeito do capítulo 1.1 O que é RPG de maneira sucinta, mas explicativa de modo a ser contido em um ebook
+| conteúdo | chat conte me sobre a evolução do RPG de maneira  sucinta, mas explicativa de modo a ser contido em um ebook
+| conteúdo | chat conte me sobre me conte sobre os beneficios de se jogar rpg de maneira  sucinta, mas explicativa de modo a ser contido em um ebook
 
 
 Seaart：
