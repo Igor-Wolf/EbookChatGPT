@@ -1,6 +1,6 @@
 # Projeto criação de Ebook através de IAs
 
-Esse projeto teve como objetivo a criação de um ebook com leyout rico, e com foco em demonstrar o poder das ferramentas com I.A.s
+Esse prototipo tem como objetivo a criação de um ebook com layout rico, e com foco em demonstrar o poder das ferramentas com I.A.s
 Ele pode ser conferido logo abaixo: 
 
 
