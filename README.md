@@ -4,7 +4,7 @@ Esse projeto teve como objetivo a criação de um ebook com leyout rico, e com f
 Ele pode ser conferido logo abaixo: 
 
 
-<a href="https://www.dio.me/articles/a-proxima-era-do-rpg-como-o-chatgpt-redefine-a-experiencia-no-jogo" title="View PDF now"> 📕Clique aqui para ler o Ebook</a>
+<a href="https://github.com/Igor-Wolf/EbookChatGPT/blob/main/output/Ebook%20Dio.pdf" title="View PDF now"> 📕Clique aqui para ler o Ebook</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
@@ -31,11 +31,11 @@ ChatGPT：
 
 Seaart：
 
-- No Seaart gerei as imagens contidas no artigo com temática RPG com o seguinte Prompt:
+- No Seaart gerei as imagens contidas no ebook com temática RPG com o seguinte Prompt:
 
 |  Imagem                 | Prompt
 |  :--------------------: | ------------------------------------------------------------------------------------------------------------
-|  undefined_image.png    | highes definition, melhor qualidade, escudo do mestre, mestrando rpg, dungeon master, behind the shield, aventura rpg, jogos de mesa, dices, tabletop rpg 
-| undefined_image(2).png  | highes definition, melhor qualidade, aventureiro, dark fantasy, rpg, guerreiro, cavaleiro, em ação
-| undefined_image(3).png  | highes definition, melhor qualidade, dark fantasy, rpg, acher, arqueiro furtivo, arqueiro do rei, arco e flechas, elfo, high elf, elfo na floresta
-| undefined_image(4).png  | highes definition, melhor qualidade, aventureiro, dark fantasy, rpg, guerreiro, cavaleiro, in action
+|  undefined_image.png    | melhor qualidade, jogos, livros, dados, rpg de mesa, jogadores, arquivos
+| undefined_image(1).png  | melhor qualidade, jogos, livros, dados, rpg de mesa, jogadores, arquivos
+| undefined_image(2).png  | melhor qualidade,dices, no people, books, paper
+
